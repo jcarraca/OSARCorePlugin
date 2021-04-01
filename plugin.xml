@@ -53,7 +53,7 @@
 
         <!-- Gradle script -->
         <framework src="src/android/osarcoreplugin.gradle" custom="true" type="gradleReference"/>
-        <framework src="com.android.support:appcompat-v7:26+"/>
+        <framework src="com.android.support:appcompat-v7:28+"/>
 
         <!-- Copy Resources -->
         <resource-file src="res/layout/activity_main.xml" target="res/layout/activity_main.xml" />
